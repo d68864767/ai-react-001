@@ -1,0 +1,27 @@
+{
+  "name": "react-ai-website",
+  "version": "1.0.0",
+  "description": "A React AI Website with Free GPT-4 Chat",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/react-ai-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/react-ai-website/issues"
+  },
+  "homepage": "https://github.com/yourusername/react-ai-website#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  }
+}
